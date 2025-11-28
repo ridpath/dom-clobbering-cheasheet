@@ -1,3 +1,11 @@
+<!--
+DOM Clobbering Cheat Sheet: Advanced browser exploitation techniques for XSS, CSP bypass, and client-side attacks.
+Comprehensive guide covering 100+ clobbering vectors, hydration desync, Trusted Types bypass, and framework evasion.
+Topics: dom-clobbering, xss, csp-bypass, browser-exploitation, web-security, ssr-hacking, offensive-security, ethical-hacking
+Keywords: dom clobbering cheat sheet, xss exploitation techniques, csp bypass methods, browser security research, client-side attacks, hydration desync attacks, trusted types bypass, ssr security vulnerabilities, web application hacking, offensive web security
+-->
+
+
 # Ultimate DOM Clobbering Cheat Sheet  
 *Tested primarily in Chrome-based browsers. Refresh cache (Ctrl+Shift+R) if results show null or exceptions.*
  Compiled and maintained by [Ridpath](https://github.com/ridpath)
